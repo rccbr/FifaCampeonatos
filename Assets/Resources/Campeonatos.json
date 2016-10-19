@@ -1,0 +1,49 @@
+{
+  "Americas":
+  [
+    {"name":"Atletico Mineiro","teamID":0},
+    {"name":"Tigres UANL","teamID":4},
+    {"name":"Tigres UANL","teamID":4},
+    {"name":"Palmeiras","teamID":2},
+    {"name":"Gremio","teamID":1},
+    {"name":"Sao Paulo","teamID":3},
+    {"name":"San Lorenzo","teamID":5},
+	{"name":"Los Angeles Galaxy","teamID":6}
+  ],
+  
+  "Champions":
+  [
+    {"name":"Barcelona","teamID":6},
+    {"name":"Manchester City","teamID":17},
+    {"name":"Bayern Munich","teamID":16},
+    {"name":"Arsenal","teamID":12},
+    {"name":"Manchester United","teamID":18},
+    {"name":"Barcelona","teamID":6},
+	{"name":"Manchester City","teamID":17},
+	{"name":"Barcelona","teamID":6}
+  ],
+  
+  "Europa":
+  [
+    {"name":"FC Kobenhavn","teamID":0},
+    {"name":"Anderletch","teamID":3},
+    {"name":"Trabzonspor","teamID":2},
+    {"name":"Lokomotiv","teamID":4},
+    {"name":"Olympiakos CFP","teamID":5},
+    {"name":"Trabzonspor","teamID":2},
+	{"name":"FC Basel","teamID":1},
+	{"name":"Galatasaray SC","teamID":6}
+  ],
+  
+  "AsiaOcean":
+  [
+    {"name":"Jeobunk Hyundai","teamID":3},
+    {"name":"All Nassr","teamID":4},
+    {"name":"Al Ahli","teamID":0},
+    {"name":"All Nassr","teamID":4},
+    {"name":"Al Shabab FC","teamID":2},
+    {"name":"Al Hilal","teamID":1},
+	{"name":"Jeobunk Hyundai","teamID":3},
+	{"name":"Al Hilal","teamID":1}
+  ]
+}

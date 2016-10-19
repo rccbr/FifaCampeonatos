@@ -1,0 +1,33 @@
+
+{
+  "Argentina":
+  [
+    {"name":"Argentinos Jrs","teamID":0},
+    {"name":"Bahía Blanca","teamID":1},
+    {"name":"Banfield","teamID":2},
+    {"name":"Belgrano","teamID":3},
+    {"name":"Boca Juniors","teamID":4},
+    {"name":"Estudiantes","teamID":5},
+    {"name":"Fl. Varela","teamID":6},
+    {"name":"G. La Plata","teamID":7},
+    {"name":"Godoy Cruz","teamID":8},
+    {"name":"Independiente","teamID":9},
+    {"name":"Junín","teamID":10},
+    {"name":"Lanús","teamID":11},
+    {"name":"Mar del Plata","teamID":12},
+    {"name":"Mataderos","teamID":13},
+    {"name":"Newell's","teamID":14},
+    {"name":"Parque Patricios","teamID":15},
+    {"name":"Quilmes","teamID":16},
+    {"name":"Racing Club","teamID":17},
+    {"name":"River Plate","teamID":18},
+    {"name":"Rosario Central","teamID":19},
+    {"name":"San Lorenzo","teamID":20},
+    {"name":"Santa Fe","teamID":21},
+    {"name":"Sarandí","teamID":22},
+    {"name":"Temperley","teamID":23},
+    {"name":"Tigre","teamID":24},
+    {"name":"Unión","teamID":25},
+    {"name":"Vélez Sarsfield","teamID":26}
+  ]
+}
