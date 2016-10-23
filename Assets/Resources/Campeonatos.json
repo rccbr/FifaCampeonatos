@@ -8,7 +8,8 @@
     {"name":"Gremio","teamID":1},
     {"name":"Sao Paulo","teamID":3},
     {"name":"San Lorenzo","teamID":5},
-	{"name":"Los Angeles Galaxy","teamID":6}
+	{"name":"Los Angeles Galaxy","teamID":6},
+	{"name":"Boca Juniors","teamID":7}
   ],
   
   "Champions":
@@ -32,7 +33,8 @@
     {"name":"Olympiakos CFP","teamID":5},
     {"name":"Trabzonspor","teamID":2},
 	{"name":"FC Basel","teamID":1},
-	{"name":"Galatasaray SC","teamID":6}
+	{"name":"Galatasaray SC","teamID":6},
+	{"name":"Club Brugge KV","teamID":7}
   ],
   
   "AsiaOcean":
@@ -44,6 +46,7 @@
     {"name":"Al Shabab FC","teamID":2},
     {"name":"Al Hilal","teamID":1},
 	{"name":"Jeobunk Hyundai","teamID":3},
+	{"name":"Al Hilal","teamID":1},
 	{"name":"Al Hilal","teamID":1}
   ]
 }
