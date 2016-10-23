@@ -21,14 +21,14 @@ public class ChampionLabel : MonoBehaviour
     
     void Awake()
     {
-        campeonatosText = Resources.Load<TextAsset>("Campeonatos");
+        campeonatosText = Resources.Load<TextAsset>("Americas");
     }
 
     void Start ()
     {
         championsDB = RetrieveChampions();
 
-        champ = new ChampionsDB.ChampionTeam[7];
+        champ = new ChampionsDB.ChampionTeam[9];
 
         if (id == 0)
             champ = championsDB.Americas;
@@ -38,6 +38,8 @@ public class ChampionLabel : MonoBehaviour
             champ = championsDB.Europa;
         else if (id == 3)
             champ = championsDB.AsiaOcean;
+
+        Debug.Log(champ[champ.Length - 1].name);
 
         ShowChampions();
     }

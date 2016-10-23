@@ -43,4 +43,9 @@ public class GameScene : MonoBehaviour
     {
         GUIAnimSystemFREE.Instance.LoadLevel("AsiaOcean", 0f);
     }
+
+    public void OpenMundial()
+    {
+        GUIAnimSystemFREE.Instance.LoadLevel("Mundial", 0f);
+    }
 }

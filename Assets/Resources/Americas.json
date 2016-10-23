@@ -1,0 +1,14 @@
+{
+  "Americas":
+  [
+    {"name":"Atletico Mineiro","teamID":0},
+    {"name":"Tigres UANL","teamID":4},
+    {"name":"Tigres UANL","teamID":4},
+    {"name":"Palmeiras","teamID":2},
+    {"name":"Gremio","teamID":1},
+    {"name":"Sao Paulo","teamID":3},
+    {"name":"San Lorenzo","teamID":5},
+	{"name":"Los Angeles Galaxy","teamID":6},
+	{"name":"Boca Juniors","teamID":7}
+  ]
+}
